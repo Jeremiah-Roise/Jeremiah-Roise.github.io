@@ -1,6 +1,3 @@
-[submodule "home/themes/hugo-coder"]
-	path = home/themes/hugo-coder
-	url = https://github.com/luizdepra/hugo-coder.git
 [submodule "personal/themes/hugo-coder"]
 	path = personal/themes/hugo-coder
 	url = https://github.com/luizdepra/hugo-coder.git
