@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>New on Jeremiah Roise&#39;s personal site.</title>
-    <link>http://jeremiah-roise.github.com/tags/new/</link>
+    <link>http://jeremiah-roise.github.io/tags/new/</link>
     <description>Recent content in New on Jeremiah Roise&#39;s personal site.</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sun, 05 May 2024 12:04:23 -0600</lastBuildDate>
-    <atom:link href="http://jeremiah-roise.github.com/tags/new/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://jeremiah-roise.github.io/tags/new/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Buying a milling machine from facebook marketplace</title>
-      <link>http://jeremiah-roise.github.com/posts/mill/</link>
+      <link>http://jeremiah-roise.github.io/posts/mill/</link>
       <pubDate>Sun, 05 May 2024 12:04:23 -0600</pubDate>
-      <guid>http://jeremiah-roise.github.com/posts/mill/</guid>
+      <guid>http://jeremiah-roise.github.io/posts/mill/</guid>
       <description>&lt;h1 id=&#34;this-is-my-first-test-of-a-hugo-post&#34;&gt;&#xA;  this is my first test of a hugo post.&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#this-is-my-first-test-of-a-hugo-post&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;</description>
     </item>
   </channel>

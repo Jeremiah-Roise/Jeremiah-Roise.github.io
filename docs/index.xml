@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jeremiah Roise&#39;s personal site.</title>
-    <link>http://jeremiah-roise.github.com/</link>
+    <link>http://jeremiah-roise.github.io/</link>
     <description>Recent content on Jeremiah Roise&#39;s personal site.</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sun, 05 May 2024 12:04:23 -0600</lastBuildDate>
-    <atom:link href="http://jeremiah-roise.github.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://jeremiah-roise.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Buying a milling machine from facebook marketplace</title>
-      <link>http://jeremiah-roise.github.com/posts/mill/</link>
+      <link>http://jeremiah-roise.github.io/posts/mill/</link>
       <pubDate>Sun, 05 May 2024 12:04:23 -0600</pubDate>
-      <guid>http://jeremiah-roise.github.com/posts/mill/</guid>
+      <guid>http://jeremiah-roise.github.io/posts/mill/</guid>
       <description>&lt;h1 id=&#34;this-is-my-first-test-of-a-hugo-post&#34;&gt;&#xA;  this is my first test of a hugo post.&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#this-is-my-first-test-of-a-hugo-post&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;</description>
     </item>
     <item>
       <title>About</title>
-      <link>http://jeremiah-roise.github.com/about/</link>
+      <link>http://jeremiah-roise.github.io/about/</link>
       <pubDate>Sun, 05 May 2024 11:50:02 -0600</pubDate>
-      <guid>http://jeremiah-roise.github.com/about/</guid>
+      <guid>http://jeremiah-roise.github.io/about/</guid>
       <description>&lt;h2 id=&#34;hello-this-about-page-is-all-about-me&#34;&gt;&#xA;  Hello this about page is all about me&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#hello-this-about-page-is-all-about-me&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;I&amp;rsquo;m just a guy thats interested in technology: computers, robots, crypto, mechanics, radio and doubtless other things i have yet to discover.&#xA;  󱘗  󱨚   󱄅  &#xA;This blog is my attempt to put some of the more obscure stuff I&amp;rsquo;ve learned online. I hope you enjoy it, and maybe even find a few useful tips along the way.&#xA;The quality of the posts on here will probably vary a lot so be prepared!&lt;/p&gt;</description>
     </item>
   </channel>
