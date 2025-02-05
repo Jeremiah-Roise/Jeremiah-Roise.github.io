@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://jeremiah-roise.github.io/</loc>
+    <lastmod>2025-02-05T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://jeremiah-roise.github.io/authors/</loc>
     <lastmod>2024-05-05T12:04:23-06:00</lastmod>
   </url><url>
@@ -14,7 +17,7 @@
     <loc>http://jeremiah-roise.github.io/authors/jeremiah-roise/</loc>
     <lastmod>2024-05-05T12:04:23-06:00</lastmod>
   </url><url>
-    <loc>http://jeremiah-roise.github.io/</loc>
+    <loc>http://jeremiah-roise.github.io/tags/linuxcnc/</loc>
     <lastmod>2024-05-05T12:04:23-06:00</lastmod>
   </url><url>
     <loc>http://jeremiah-roise.github.io/tags/manufacturing/</loc>

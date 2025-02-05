@@ -33,6 +33,7 @@
     <meta property="article:tag" content="Manufacturing">
     <meta property="article:tag" content="Fixing">
     <meta property="article:tag" content="New">
+    <meta property="article:tag" content="Linuxcnc">
 
 
 
@@ -126,7 +127,7 @@
             </li>
           
             <li class="navigation-item">
-              <a class="navigation-link " href="/projects/">Projects</a>
+              <a class="navigation-link " href="https://github.com/Jeremiah-Roise?tab=repositories">Projects</a>
             </li>
           
             <li class="navigation-item">
@@ -163,7 +164,7 @@
             </span>
             <span class="reading-time">
               <i class="fa-solid fa-clock" aria-hidden="true"></i>
-              One-minute read
+              3-minute read
             </span>
           </div>
           <div class="authors">
@@ -183,6 +184,10 @@
       <span class="separator">•</span>
     <span class="tag">
       <a href="/tags/new/">New</a>
+    </span>
+      <span class="separator">•</span>
+    <span class="tag">
+      <a href="/tags/linuxcnc/">Linuxcnc</a>
     </span></div>
 
         </div>
@@ -190,13 +195,55 @@
 
       <div class="post-content">
         
-        <h1 id="this-is-my-first-test-of-a-hugo-post">
-  this is my first test of a hugo post.
-  <a class="heading-link" href="#this-is-my-first-test-of-a-hugo-post">
+        <h1 id="recently-i-became-extremely-interested-in-milling-and-cnc-machining">
+  Recently I became extremely interested in milling and cnc machining
+  <a class="heading-link" href="#recently-i-became-extremely-interested-in-milling-and-cnc-machining">
     <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
     <span class="sr-only">Link to heading</span>
   </a>
 </h1>
+<p>The proccess of turning blocks of metal into precise complex objects quickly has always fascinated me, but I never took this interest furthur because of the expense involved,
+but I Recently became aware of the existance of these &ldquo;mini mills&rdquo;</p>
+<p><img alt="mini mill" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftimsmachines.com%2Fwp-content%2Fuploads%2F2018%2F05%2FHF-Mini-Mill.jpg&f=1&nofb=1&ipt=3377d25c9566bd0436636985314530f2f601d7dfa90fa8e92699a151f8a008b0&ipo=images"></p>
+<p>and so I started poking around on facebook marketplace looking for a deal on one and right next to all the mini mills was this beast!</p>
+<p><img alt="milltronics Partner IV" src="https://cdn.wotol.com/Sl72xntEmAPneO3-l9pL2ftrJ_w=/fit-in/1000x1000/media/pictures/4e3/4e3e41b2-a310-4e0e-986e-6044bd11090f.jpeg"></p>
+<p>and for the exact same price as the mini mills which were much less capable and always of dubious quality,
+so after a small amount of deliberation and a quick examination I bought it and paid to have it transported to my garage,
+at which point I realized I had just moved a giant immovable chunk of metal into my garage.</p>
+<h3 id="act-ii">
+  act II
+  <a class="heading-link" href="#act-ii">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h3>
+<p>after a week or so I had fiddled with the machine a bit and run a gcode file that I generated with the CAM tools in FreeCad and I was feeling pretty good about my purchase,
+but disaster was about to strike and cast me into the deepend, my grandfather visited and naturally wanted to know about the giant machine in the garage and I was glad to demonstrate,
+I went and turned on the breaker and powered on the main computer on the machine and did a little demonstration and everything worked perfectly we then decided to go to lunch so I
+turned of the computer and went to lunch, we were out for a few hours and when we came back the garage was filled with a horrible smell and all the axis of the mill were jammed to their
+extremes all of the axis motors were hot to the touch. I turned off the breaker and waited a while before digging into the machine I found that all of the motors had overheated and burned
+themselves out, at least one of the motor controllers had melted down and the others were in bad condition <em>(sigh)</em> this was going to be an adventure.</p>
+<h3 id="act-iii">
+  act III
+  <a class="heading-link" href="#act-iii">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h3>
+<p>Fixing this was going to be no small task I spent hours finding new motors online, eventually I found a set that I believed would work and ordered them,
+the next task was to figure out how the controller worked it ended up being quite complex there were essentially two computers a normal desktop pc and an fpga that plugged into the pcie port,
+the fpga had connectors for ribbon cables that went to smaller <code>daughter cards</code> that did the actual switching of switches and motor control.
+Finding all the documentation for this was quite the challenge but I worked through it and got the motors connected the the controller and tested the software I now have a partially operational
+milling machine I&rsquo;m skipping over a lot of details but I plan to break those out into smaller posts for example the story of figuring out that one of the daughter boards had <em>one</em> bad pin and why
+that required a brand new daughter board.</p>
+<h4 id="currently-the-machine-is-mostly-working">
+  Currently the machine is mostly working
+  <a class="heading-link" href="#currently-the-machine-is-mostly-working">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h4>
+<p>but requires tuning of the motors and the control loops in the software before it&rsquo;s going to make cut any metal.</p>
 
       </div>
 
