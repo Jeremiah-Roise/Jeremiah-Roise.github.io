@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fixing on Jeremiah Roise&#39;s personal site.</title>
-    <link>http://jeremiah-roise.github.io/tags/fixing/</link>
+    <link>http://localhost:1313/tags/fixing/</link>
     <description>Recent content in Fixing on Jeremiah Roise&#39;s personal site.</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sun, 05 May 2024 12:04:23 -0600</lastBuildDate>
-    <atom:link href="http://jeremiah-roise.github.io/tags/fixing/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/fixing/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Buying a milling machine from facebook marketplace</title>
-      <link>http://jeremiah-roise.github.io/posts/mill/</link>
+      <link>http://localhost:1313/posts/mill/</link>
       <pubDate>Sun, 05 May 2024 12:04:23 -0600</pubDate>
-      <guid>http://jeremiah-roise.github.io/posts/mill/</guid>
+      <guid>http://localhost:1313/posts/mill/</guid>
       <description>&lt;h1 id=&#34;recently-i-became-extremely-interested-in-milling-and-cnc-machining&#34;&gt;&#xA;  Recently I became extremely interested in milling and cnc machining&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#recently-i-became-extremely-interested-in-milling-and-cnc-machining&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;The proccess of turning blocks of metal into precise complex objects quickly has always fascinated me, but I never took this interest furthur because of the expense involved,&#xA;but I Recently became aware of the existance of these &amp;ldquo;mini mills&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img alt=&#34;mini mill&#34; src=&#34;https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftimsmachines.com%2Fwp-content%2Fuploads%2F2018%2F05%2FHF-Mini-Mill.jpg&amp;f=1&amp;nofb=1&amp;ipt=3377d25c9566bd0436636985314530f2f601d7dfa90fa8e92699a151f8a008b0&amp;ipo=images&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;and so I started poking around on facebook marketplace looking for a deal on one and right next to all the mini mills was this beast!&lt;/p&gt;</description>
     </item>
   </channel>

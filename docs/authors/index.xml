@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on Jeremiah Roise&#39;s personal site.</title>
-    <link>http://jeremiah-roise.github.io/authors/</link>
+    <link>http://localhost:1313/authors/</link>
     <description>Recent content in Authors on Jeremiah Roise&#39;s personal site.</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 05 May 2024 12:04:23 -0600</lastBuildDate>
-    <atom:link href="http://jeremiah-roise.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 25 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/authors/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Jeremiah Roise</title>
-      <link>http://jeremiah-roise.github.io/authors/jeremiah-roise/</link>
-      <pubDate>Sun, 05 May 2024 12:04:23 -0600</pubDate>
-      <guid>http://jeremiah-roise.github.io/authors/jeremiah-roise/</guid>
+      <link>http://localhost:1313/authors/jeremiah-roise/</link>
+      <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/authors/jeremiah-roise/</guid>
       <description></description>
     </item>
   </channel>

@@ -2,38 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Jeremiah Roise&#39;s personal site.</title>
-    <link>http://jeremiah-roise.github.io/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Jeremiah Roise&#39;s personal site.</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 05 May 2024 12:04:23 -0600</lastBuildDate>
-    <atom:link href="http://jeremiah-roise.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 25 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Notes</title>
+      <link>http://localhost:1313/tags/notes/</link>
+      <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/notes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Obsidian</title>
+      <link>http://localhost:1313/tags/obsidian/</link>
+      <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/obsidian/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tutorial</title>
+      <link>http://localhost:1313/tags/tutorial/</link>
+      <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/tutorial/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Fixing</title>
-      <link>http://jeremiah-roise.github.io/tags/fixing/</link>
+      <link>http://localhost:1313/tags/fixing/</link>
       <pubDate>Sun, 05 May 2024 12:04:23 -0600</pubDate>
-      <guid>http://jeremiah-roise.github.io/tags/fixing/</guid>
+      <guid>http://localhost:1313/tags/fixing/</guid>
       <description></description>
     </item>
     <item>
       <title>Linuxcnc</title>
-      <link>http://jeremiah-roise.github.io/tags/linuxcnc/</link>
+      <link>http://localhost:1313/tags/linuxcnc/</link>
       <pubDate>Sun, 05 May 2024 12:04:23 -0600</pubDate>
-      <guid>http://jeremiah-roise.github.io/tags/linuxcnc/</guid>
+      <guid>http://localhost:1313/tags/linuxcnc/</guid>
       <description></description>
     </item>
     <item>
       <title>Manufacturing</title>
-      <link>http://jeremiah-roise.github.io/tags/manufacturing/</link>
+      <link>http://localhost:1313/tags/manufacturing/</link>
       <pubDate>Sun, 05 May 2024 12:04:23 -0600</pubDate>
-      <guid>http://jeremiah-roise.github.io/tags/manufacturing/</guid>
+      <guid>http://localhost:1313/tags/manufacturing/</guid>
       <description></description>
     </item>
     <item>
       <title>New</title>
-      <link>http://jeremiah-roise.github.io/tags/new/</link>
+      <link>http://localhost:1313/tags/new/</link>
       <pubDate>Sun, 05 May 2024 12:04:23 -0600</pubDate>
-      <guid>http://jeremiah-roise.github.io/tags/new/</guid>
+      <guid>http://localhost:1313/tags/new/</guid>
       <description></description>
     </item>
   </channel>
