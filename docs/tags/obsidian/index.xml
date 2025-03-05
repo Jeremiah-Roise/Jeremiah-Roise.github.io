@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Obsidian on Jeremiah Roise&#39;s personal site.</title>
-    <link>http://localhost:1313/tags/obsidian/</link>
+    <link>http://jeremiah-roise.github.io/tags/obsidian/</link>
     <description>Recent content in Obsidian on Jeremiah Roise&#39;s personal site.</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Tue, 25 Feb 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/obsidian/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://jeremiah-roise.github.io/tags/obsidian/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Default note template in Obisidian</title>
-      <link>http://localhost:1313/posts/obsidiandefaultnotetemplate/</link>
+      <link>http://jeremiah-roise.github.io/posts/obsidiandefaultnotetemplate/</link>
       <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/obsidiandefaultnotetemplate/</guid>
+      <guid>http://jeremiah-roise.github.io/posts/obsidiandefaultnotetemplate/</guid>
       <description>&lt;p&gt;For some reason it&amp;rsquo;s unreasonably hard to find out how to set a default template for a note in the note taking app Obsidian so I&amp;rsquo;m documenting here what worked for me on February-25-2025. Here&amp;rsquo;s my setup:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Create a  template folder and in that folder create a file called &lt;code&gt;template.md&lt;/code&gt; inside your vault.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Add some default text or markdown content you want to use as the default template for new notes.&lt;/p&gt;</description>
     </item>
   </channel>

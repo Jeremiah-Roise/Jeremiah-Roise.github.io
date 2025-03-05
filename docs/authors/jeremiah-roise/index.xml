@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jeremiah Roise on Jeremiah Roise&#39;s personal site.</title>
-    <link>http://localhost:1313/authors/jeremiah-roise/</link>
+    <link>http://jeremiah-roise.github.io/authors/jeremiah-roise/</link>
     <description>Recent content in Jeremiah Roise on Jeremiah Roise&#39;s personal site.</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Tue, 25 Feb 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/authors/jeremiah-roise/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://jeremiah-roise.github.io/authors/jeremiah-roise/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Default note template in Obisidian</title>
-      <link>http://localhost:1313/posts/obsidiandefaultnotetemplate/</link>
+      <link>http://jeremiah-roise.github.io/posts/obsidiandefaultnotetemplate/</link>
       <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/obsidiandefaultnotetemplate/</guid>
+      <guid>http://jeremiah-roise.github.io/posts/obsidiandefaultnotetemplate/</guid>
       <description>&lt;p&gt;For some reason it&amp;rsquo;s unreasonably hard to find out how to set a default template for a note in the note taking app Obsidian so I&amp;rsquo;m documenting here what worked for me on February-25-2025. Here&amp;rsquo;s my setup:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Create a  template folder and in that folder create a file called &lt;code&gt;template.md&lt;/code&gt; inside your vault.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Add some default text or markdown content you want to use as the default template for new notes.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Buying a milling machine from facebook marketplace</title>
-      <link>http://localhost:1313/posts/mill/</link>
-      <pubDate>Sun, 05 May 2024 12:04:23 -0600</pubDate>
-      <guid>http://localhost:1313/posts/mill/</guid>
+      <link>http://jeremiah-roise.github.io/posts/mill/</link>
+      <pubDate>Sun, 05 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://jeremiah-roise.github.io/posts/mill/</guid>
       <description>&lt;h1 id=&#34;recently-i-became-extremely-interested-in-milling-and-cnc-machining&#34;&gt;&#xA;  Recently I became extremely interested in milling and cnc machining&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#recently-i-became-extremely-interested-in-milling-and-cnc-machining&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;The proccess of turning blocks of metal into precise complex objects quickly has always fascinated me, but I never took this interest furthur because of the expense involved,&#xA;but I Recently became aware of the existance of these &amp;ldquo;mini mills&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img alt=&#34;mini mill&#34; src=&#34;https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftimsmachines.com%2Fwp-content%2Fuploads%2F2018%2F05%2FHF-Mini-Mill.jpg&amp;f=1&amp;nofb=1&amp;ipt=3377d25c9566bd0436636985314530f2f601d7dfa90fa8e92699a151f8a008b0&amp;ipo=images&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;and so I started poking around on facebook marketplace looking for a deal on one and right next to all the mini mills was this beast!&lt;/p&gt;</description>
     </item>
   </channel>

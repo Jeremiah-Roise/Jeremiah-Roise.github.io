@@ -2,53 +2,53 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/authors/</loc>
+    <loc>http://jeremiah-roise.github.io/</loc>
+    <lastmod>2025-02-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://jeremiah-roise.github.io/posts/</loc>
+    <lastmod>2025-02-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://jeremiah-roise.github.io/authors/</loc>
     <lastmod>2025-02-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/obsidiandefaultnotetemplate/</loc>
+    <loc>http://jeremiah-roise.github.io/posts/obsidiandefaultnotetemplate/</loc>
     <lastmod>2025-02-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/authors/jeremiah-roise/</loc>
+    <loc>http://jeremiah-roise.github.io/authors/jeremiah-roise/</loc>
     <lastmod>2025-02-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://jeremiah-roise.github.io/tags/notes/</loc>
     <lastmod>2025-02-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/notes/</loc>
+    <loc>http://jeremiah-roise.github.io/tags/obsidian/</loc>
     <lastmod>2025-02-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/obsidian/</loc>
+    <loc>http://jeremiah-roise.github.io/tags/</loc>
     <lastmod>2025-02-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>http://jeremiah-roise.github.io/tags/tutorial/</loc>
     <lastmod>2025-02-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-02-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/tutorial/</loc>
-    <lastmod>2025-02-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/mill/</loc>
-    <lastmod>2024-05-05T12:04:23-06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/fixing/</loc>
-    <lastmod>2024-05-05T12:04:23-06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/linuxcnc/</loc>
-    <lastmod>2024-05-05T12:04:23-06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/manufacturing/</loc>
-    <lastmod>2024-05-05T12:04:23-06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/new/</loc>
-    <lastmod>2024-05-05T12:04:23-06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>http://jeremiah-roise.github.io/about/</loc>
     <lastmod>2024-05-05T11:50:02-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://jeremiah-roise.github.io/posts/mill/</loc>
+    <lastmod>2024-05-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/series/</loc>
+    <loc>http://jeremiah-roise.github.io/tags/fixing/</loc>
+    <lastmod>2024-05-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://jeremiah-roise.github.io/tags/linuxcnc/</loc>
+    <lastmod>2024-05-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://jeremiah-roise.github.io/tags/manufacturing/</loc>
+    <lastmod>2024-05-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://jeremiah-roise.github.io/tags/new/</loc>
+    <lastmod>2024-05-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://jeremiah-roise.github.io/categories/</loc>
+  </url><url>
+    <loc>http://jeremiah-roise.github.io/series/</loc>
   </url>
 </urlset>
